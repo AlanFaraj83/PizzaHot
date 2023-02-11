@@ -16,7 +16,7 @@
 
 ## Descrição do projeto
 
-<p>PizzaHot Website foi um projeto com o objetivo a utilizar uma landing page para implementar e praticar tanto front-end quanto o back-end e assim pensei em fazer um site de pizzaria utlizando os requisitos da programação.</p>
+<p>PizzaHot Website foi um projeto com o objetivo a utilizar uma landing page para implementar e praticar o front-end e assim pensei em fazer um site de pizzaria utlizando os requisitos.</p>
 
 ## Conteúdo do projeto
 
